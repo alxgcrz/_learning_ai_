@@ -1,0 +1,34 @@
+{
+  "name": "learning_ai",
+  "version": "1.0.0",
+  "description": "Learning AI",
+  "private": true,
+  "main": "README.md",
+  "author": "@alxgcrz",
+  "license": "CC-BY-4.0",
+  "homepage": "https://alxgcrz.com/ai.html",
+  "engines": {
+  "pandoc": "required",
+  "mdpdf": "required",
+  "live-server": "required"
+  },
+  "config": {
+    "html": "ai.html",
+    "pdf": "Desarrollo\\Ai\\Ai[ES].pdf",
+    "public": "portfolio_v3\\public"
+  },
+  "scripts": {
+    "pandoc": "npm run pandoc:create && npm run pandoc:copy",
+    "pandoc:create": "pandoc -d custom",
+    "pandoc:copy": "copy %npm_package_config_html% \"%WEB_PUBLIC_FOLDER%/%npm_package_config_public%\"",
+    "pdf": "npm run pdf:create && npm run pdf:copy",
+    "pdf:create": "mdpdf README.md README.pdf",
+    "pdf:copy": "copy README.pdf \"%PDF_BASE_PATH%/%npm_package_config_pdf%\"",
+    "live": "node live.js",
+    "live-edge": "live-server %npm_package_config_html% --browser=msedge"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alxgcrz/_learning_ai_.git"
+  }
+}
