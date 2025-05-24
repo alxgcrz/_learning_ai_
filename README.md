@@ -120,10 +120,37 @@
 
 ## Enlaces
 
-- <https://elandroidefeliz.com/guia-basica-de-prompts-para-generar-imagenes-con-ia/>
-- <https://medium.com/@maximilian.vogel/the-chatgpt-list-of-lists-a-collection-of-1500-useful-mind-blowing-and-strange-use-cases-8b14c35eb>
+### AI
+
+- <https://chatgpt.com/>
+- <https://copilot.microsoft.com/>
+- <https://claude.ai/new>
+- <https://www.deepseek.com/>
+- <https://gemini.google.com/>
+- <https://meta.ai/>
+- <https://chat.mistral.ai/>
+
+### AI on Github
+
+- <https://github.com/openai>
+
+### Github Copilot
+
+- <https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming>
+
+### MCP (Model Context Protocol)
+
+- <https://github.com/microsoft/mcp-for-beginners>
+
+### Prompts
+
 - <https://github.com/f/awesome-chatgpt-prompts>
 - <https://docs.anthropic.com/en/prompt-library/library>
+- <https://prompts.chat/>
+- <https://medium.com/@maximilian.vogel/the-chatgpt-list-of-lists-a-collection-of-1500-useful-mind-blowing-and-strange-use-cases-8b14c35eb>
+- <https://elandroidefeliz.com/guia-basica-de-prompts-para-generar-imagenes-con-ia/>
+- <https://microsoft.github.io/generative-ai-for-beginners/#/>
+- <https://cookbook.openai.com/>
 
 ## Licencia
 
