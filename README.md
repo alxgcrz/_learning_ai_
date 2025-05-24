@@ -129,22 +129,31 @@
 - <https://gemini.google.com/>
 - <https://meta.ai/>
 - <https://chat.mistral.ai/>
+- <https://huggingface.co/chat/>
 
 ### AI on Github
 
+- <https://github.com/topics/artificial-intelligence>
 - <https://github.com/openai>
+- <https://github.com/All-Hands-AI/OpenHands>
 
 ### Github Copilot
 
+- <https://docs.github.com/es/copilot>
 - <https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming>
+- <https://code.visualstudio.com/docs/copilot/overview>
+- <https://www.youtube.com/@code>
+- <https://www.youtube.com/@GitHub>
 
 ### MCP (Model Context Protocol)
 
+- 👓 <https://github.com/punkpeye/awesome-mcp-servers>
 - <https://github.com/microsoft/mcp-for-beginners>
 
 ### Prompts
 
-- <https://github.com/f/awesome-chatgpt-prompts>
+- 👓 <https://github.com/f/awesome-chatgpt-prompts>
+- 👓 <https://github.com/e2b-dev/awesome-ai-agents>
 - <https://docs.anthropic.com/en/prompt-library/library>
 - <https://prompts.chat/>
 - <https://medium.com/@maximilian.vogel/the-chatgpt-list-of-lists-a-collection-of-1500-useful-mind-blowing-and-strange-use-cases-8b14c35eb>
