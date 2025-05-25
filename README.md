@@ -136,6 +136,7 @@
 - <https://github.com/topics/artificial-intelligence>
 - <https://github.com/openai>
 - <https://github.com/All-Hands-AI/OpenHands>
+- <https://github.com/JetBrains/junie-guidelines>
 
 ### Github Copilot
 
@@ -144,6 +145,8 @@
 - <https://code.visualstudio.com/docs/copilot/overview>
 - <https://www.youtube.com/@code>
 - <https://www.youtube.com/@GitHub>
+- <https://www.youtube.com/@returngis>
+- <https://www.youtube.com/playlist?list=PLj6YeMhvp2S5_hvBl2SE-7YCHYlLQ0bPt>
 
 ### MCP (Model Context Protocol)
 
