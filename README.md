@@ -120,22 +120,13 @@
 
 ## Enlaces
 
-### AI
+### AI Community
 
-- <https://chatgpt.com/>
-- <https://copilot.microsoft.com/>
-- <https://claude.ai/new>
-- <https://www.deepseek.com/>
-- <https://gemini.google.com/>
-- <https://meta.ai/>
-- <https://chat.mistral.ai/>
-- <https://huggingface.co/chat/>
+- <https://huggingface.co>
 
 ### AI on Github
 
 - <https://github.com/topics/artificial-intelligence>
-- <https://github.com/openai>
-- <https://github.com/All-Hands-AI/OpenHands>
 - <https://github.com/JetBrains/junie-guidelines>
 
 ### Github Copilot
@@ -146,12 +137,59 @@
 - <https://www.youtube.com/@code>
 - <https://www.youtube.com/@GitHub>
 - <https://www.youtube.com/@returngis>
-- <https://www.youtube.com/playlist?list=PLj6YeMhvp2S5_hvBl2SE-7YCHYlLQ0bPt>
+
+### Copilot by Microsoft
+
+- <https://copilot.microsoft.com/>
+
+### Gemini by Google
+
+- <https://gemini.google.com/>
+- <https://codeassist.google/>
+- <https://github.com/google-gemini>
+- <https://ai.google.dev/>
+
+### ChaptGPT by OpenAI
+
+- <https://chatgpt.com/>
+- <https://openai.com/>
+- <https://github.com/openai>
+
+### Claude by Anthropic
+
+- <https://www.anthropic.com/>
+- <https://claude.ai/new>
+- <https://github.com/anthropics/>
+- [Descripción general de la ingeniería de prompts](https://docs.anthropic.com/es/docs/build-with-claude/prompt-engineering/overview)
+- [Evaluaciones de prompts](https://github.com/anthropics/courses/tree/master/prompt_evaluations)
+- [Prompts para el mundo real](https://github.com/anthropics/courses/tree/master/real_world_prompting)
+- [Construyendo agentes efectivos](https://www.anthropic.com/engineering/building-effective-agents)
+- [Claude Code: mejores prácticas](https://www.anthropic.com/engineering/claude-code-best-practices)
+- [Claude for Personal](https://www.anthropic.com/learn/claude-for-you)
+- [Claude for Work](https://www.anthropic.com/learn/claude-for-work)
+- [Construye con Claude](https://docs.anthropic.com/es/home)
+
+### DeepSeek
+
+- <https://www.deepseek.com/>
+- <https://github.com/deepseek-ai>
+
+### Llama by Meta
+
+- <https://www.llama.com/>
+- <https://meta.ai/>
+- <https://github.com/meta-llama>
 
 ### MCP (Model Context Protocol)
 
 - 👓 <https://github.com/punkpeye/awesome-mcp-servers>
 - <https://github.com/microsoft/mcp-for-beginners>
+- <https://modelcontextprotocol.io>
+- <https://mcp.so/>
+- <https://www.youtube.com/watch?v=khz4nWR9l20>
+- <https://docs.quarkiverse.io/quarkus-mcp-server/dev/#>
+- <https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/jdbc>
+- <https://github.com/yyue9527/oracle-mcp-server>
 
 ### Prompts
 
@@ -163,6 +201,11 @@
 - <https://elandroidefeliz.com/guia-basica-de-prompts-para-generar-imagenes-con-ia/>
 - <https://microsoft.github.io/generative-ai-for-beginners/#/>
 - <https://cookbook.openai.com/>
+
+### Misc
+
+- <https://chat.mistral.ai/>
+- [All Hands - Code Less, Make More](https://www.all-hands.dev/)
 
 ## Licencia
 
