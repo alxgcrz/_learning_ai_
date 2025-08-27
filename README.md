@@ -120,10 +120,6 @@
 
 ## Enlaces
 
-### AI Community
-
-- <https://huggingface.co>
-
 ### AI on Github
 
 - <https://github.com/topics/artificial-intelligence>
@@ -148,11 +144,14 @@
 - <https://codeassist.google/>
 - <https://github.com/google-gemini>
 - <https://ai.google.dev/>
+- <https://github.com/google-gemini/gemini-cli>
+- <https://github.com/google-gemini/gemini-cli/blob/main/docs/index.md>
 
 ### ChaptGPT by OpenAI
 
 - <https://chatgpt.com/>
 - <https://openai.com/>
+- <https://platform.openai.com/docs/overview>
 - <https://github.com/openai>
 
 ### Claude by Anthropic
@@ -201,11 +200,15 @@
 - <https://elandroidefeliz.com/guia-basica-de-prompts-para-generar-imagenes-con-ia/>
 - <https://microsoft.github.io/generative-ai-for-beginners/#/>
 - <https://cookbook.openai.com/>
+- <https://www.promptingguide.ai/>
 
 ### Misc
 
 - <https://chat.mistral.ai/>
 - [All Hands - Code Less, Make More](https://www.all-hands.dev/)
+- <https://aiwiki.ai/wiki/AI_Wiki>
+- <https://huggingface.co>
+- <https://www.geeksforgeeks.org/artificial-intelligence/artificial-intelligence/>
 
 ## Licencia
 
