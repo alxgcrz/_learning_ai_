@@ -209,6 +209,8 @@
 - <https://aiwiki.ai/wiki/AI_Wiki>
 - <https://huggingface.co>
 - <https://www.geeksforgeeks.org/artificial-intelligence/artificial-intelligence/>
+- [AGENTS.md - A simple, open format for guiding coding agents](https://github.com/agentsmd/agents.md)
+- <https://blog.jetbrains.com/ai/>
 
 ## Licencia
 
