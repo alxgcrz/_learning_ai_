@@ -146,6 +146,9 @@
 - <https://ai.google.dev/>
 - <https://github.com/google-gemini/gemini-cli>
 - <https://github.com/google-gemini/gemini-cli/blob/main/docs/index.md>
+- <https://antigravity.google/>
+- <https://aistudio.google.com>
+- <https://discuss.ai.google.dev/>
 
 ### ChaptGPT by OpenAI
 
@@ -197,20 +200,33 @@
 - <https://docs.anthropic.com/en/prompt-library/library>
 - <https://prompts.chat/>
 - <https://medium.com/@maximilian.vogel/the-chatgpt-list-of-lists-a-collection-of-1500-useful-mind-blowing-and-strange-use-cases-8b14c35eb>
-- <https://elandroidefeliz.com/guia-basica-de-prompts-para-generar-imagenes-con-ia/>
 - <https://microsoft.github.io/generative-ai-for-beginners/#/>
 - <https://cookbook.openai.com/>
 - <https://www.promptingguide.ai/>
 
 ### Misc
 
-- <https://chat.mistral.ai/>
-- [All Hands - Code Less, Make More](https://www.all-hands.dev/)
+- [AGENTS.md - A simple, open format for guiding coding agents](https://github.com/agentsmd/agents.md)
+- <https://llmstxt.org/>
+- <https://openhands.dev/>
+- <https://chat.mistral.ai/chat>
 - <https://aiwiki.ai/wiki/AI_Wiki>
 - <https://huggingface.co>
 - <https://www.geeksforgeeks.org/artificial-intelligence/artificial-intelligence/>
-- [AGENTS.md - A simple, open format for guiding coding agents](https://github.com/agentsmd/agents.md)
 - <https://blog.jetbrains.com/ai/>
+- <https://airisk.mit.edu/>
+- <https://opencode.ai/>
+
+### Java AI
+
+- [LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API](https://docs.langchain4j.dev/)
+- [Embabel: A New Agent Platform For the JVM](https://github.com/embabel/embabel-agent)
+- [Spring AI](https://spring.io/projects/spring-ai)
+
+### Notebook
+
+- [NotebookLM](https://notebooklm.google)
+- [DeepTutor](https://hkuds.github.io/DeepTutor/)
 
 ## Licencia
 
