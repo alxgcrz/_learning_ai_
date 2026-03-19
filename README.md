@@ -206,7 +206,8 @@
 
 ### Misc
 
-- [AGENTS.md - A simple, open format for guiding coding agents](https://github.com/agentsmd/agents.md)
+- <https://agents.md/>
+- <https://skills.sh/>
 - <https://llmstxt.org/>
 - <https://openhands.dev/>
 - <https://chat.mistral.ai/chat>
@@ -216,6 +217,7 @@
 - <https://blog.jetbrains.com/ai/>
 - <https://airisk.mit.edu/>
 - <https://opencode.ai/>
+- <https://ollama.com/>
 
 ### Java AI
 
