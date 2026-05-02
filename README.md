@@ -137,6 +137,7 @@
 ### Copilot by Microsoft
 
 - <https://copilot.microsoft.com/>
+- <https://github.com/github/awesome-copilot>
 
 ### Gemini by Google
 
@@ -208,6 +209,7 @@
 
 - <https://agents.md/>
 - <https://skills.sh/>
+- <https://agentskills.io/home>
 - <https://llmstxt.org/>
 - <https://openhands.dev/>
 - <https://chat.mistral.ai/chat>
@@ -224,6 +226,7 @@
 - [LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API](https://docs.langchain4j.dev/)
 - [Embabel: A New Agent Platform For the JVM](https://github.com/embabel/embabel-agent)
 - [Spring AI](https://spring.io/projects/spring-ai)
+- [AI in Java Series - Baeldung](https://www.baeldung.com/java-ai-series)
 
 ### Notebook
 
